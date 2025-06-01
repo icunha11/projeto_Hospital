@@ -35,7 +35,7 @@ O projeto está organizado em módulos para melhor organização e manutenção 
 
 1️⃣ Clone o repositório:
 ```bash
-git clone https://github.com/seuusuario/projeto_Hospital.git
+git clone  https://github.com/icunha11/projeto_Hospital
 
 2️⃣ Acesse a pasta do projeto:
 cd projeto_Hospital
